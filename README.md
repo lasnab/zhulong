@@ -34,4 +34,4 @@ The control electronics are also integrated, and thus only require power(12V DC)
 > The front arms were wrapped with flame resistant fabric to prevent the motor wires from catching fire.
 
 ![image](https://github.com/lasnab/zhulong/blob/main/images/side.jpg?raw=true)
-Side profile of the quadcopter.
+> Side profile of the quadcopter.
